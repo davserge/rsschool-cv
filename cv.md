@@ -1,22 +1,18 @@
-#**SERGEY DAVIDOVICH**
+<h1><b>SERGEY DAVIDOVICH</b></h1>
 ------
-**##Contact information:**
-**###E-mail:** zukovich54@mail.----------
-**###Instagram:** https://www.instagram.com/sergeydavidovich/ 
-------
-**##About myself**
-I graduated from Brest State Technical University as an economist. I was interested in web design when I studied at the university. My first webpage is available: **[www.davidovichsergey.narod.ru]** After graduation I worked as a marketing manager and was very interested in graphic design. I have achieved good results as a specialist in working with Photoshop and Corel Draw. At the moment I want to get experience in frontend development to become a good specialist in this field. 
--------
-##**Skills and Proficiency:**
-+Adobe Photoshop, Corel Draw
-+Git, GitHub
-+HTML and CSS 
---------
-##**Courses:**
-+RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-+IT ACADEMY "Html, CSS, JS Basic" (in progress)
----------
-##**Languages:**
-+English - Intermediate/Upper-intermediate 
-+German - Pre-Intermediate
-+Russian - Native
+<h2><b>Contact information:</b></h2>
+<li>E-mail: zukovich54@mail.</li>
+<li>Instagram: <a href="https://www.instagram.com/sergeydavidovich/" target="_blank">instagram.com/sergeydavidovich</a></li> 
+<h2><b>About myself</b></h2>
+I graduated from Brest State Technical University as an economist. I was interested in web design when I studied at the university. My first webpage is available: <b>www.davidovichsergey.narod.ru</b> After graduation I worked as a marketing manager and was very interested in graphic design. I have achieved good results as a specialist in working with Photoshop and Corel Draw. At the moment I want to get experience in frontend development to become a good specialist in this field. 
+<h2><b>Skills and Proficiency:</b></h2>
+<li>Adobe Photoshop, Corel Draw</li>
+<li>Git, GitHub</li>
+<li>HTML and CSS</li>
+<h2><b>Courses:</b></h2>
+<li>RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)</li>
+<li>IT ACADEMY "Html, CSS, JS Basic" (in progress)</li>
+<h2><b>Languages:</b></h2>
+<li>English - Intermediate/Upper-intermediate</li>
+<li>German - Pre-Intermediate</li>
+<li>Russian - Native</li>
