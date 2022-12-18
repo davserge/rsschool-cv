@@ -20,5 +20,5 @@ I graduated from Brest State Technical University as an economist. I was interes
 <li>German - Pre-Intermediate</li>
 <li>Russian - Native</li>
 </main>
-<footer><a href="https://github.com/davserge" target="_blank" alt="link to my github profile">my github profile</a>, year of production 2022, <img src="https://rs.school/images/rs_school_js.svg" alt="rsschool logo"> <a href="https://rs.school/js/" target="_blank">visit «JavaScript/Front-end» course of study
+<footer><a href="https://github.com/davserge" target="_blank" alt="link to my github profile">my github profile</a>, year of production 2022, <img src="https://rs.school/images/rs_school_js.svg" width="50" height="50 alt="rsschool logo"> <a href="https://rs.school/js/" target="_blank">visit «JavaScript/Front-end» course of study
 </footer>
