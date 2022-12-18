@@ -1,1 +1,1 @@
-https://davserge.github.io/rsschool-cv/
+https://davserge.github.io/rsschool-cv/cv
