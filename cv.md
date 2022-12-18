@@ -1,3 +1,6 @@
+<header></header>
+<main>
+<img src="https://github.com/davserge/rsschool-cv/blob/rsschool-cv-html/img/myfoto.jpg" width="150" height="200" alt="my foto">
 <h1><b>SERGEY DAVIDOVICH</b></h1>
 ------
 <h2><b>Contact information:</b></h2>
@@ -16,3 +19,7 @@ I graduated from Brest State Technical University as an economist. I was interes
 <li>English - Intermediate/Upper-intermediate</li>
 <li>German - Pre-Intermediate</li>
 <li>Russian - Native</li>
+</main>
+<br><br>------<br>
+<footer><a href="https://github.com/davserge" target="_blank" alt="link to my github profile">my github profile</a>, year of production 2022, <img src="https://rs.school/images/rs_school_js.svg" width="50" height="50 alt="rsschool logo"> <a href="https://rs.school/js/" target="_blank">visit «JavaScript/Front-end» course of study
+</footer>
