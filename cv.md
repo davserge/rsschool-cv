@@ -1,8 +1,7 @@
 <h1>Davidovich Sergey</h1>
----
 <h2>Contact information:</h2>
 <p><b>phone:</b>+375297467926
-<br><b>e-mail:</b>zukovich54@mail.----------
+<br><b>e-mail:</b>zukovich54@mail.ru
 <br><b>instagram:</b>instagram.com/sergeydavidovich/
 </p>
 <h2>About myself</h2>
