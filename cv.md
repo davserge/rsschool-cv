@@ -1,6 +1,6 @@
 <header></header>
 <main>
-<img src="https://github.com/davserge/rsschool-cv/blob/rsschool-cv-html/img/myfoto.jpg" width="150" height="150">
+<img src="https://github.com/davserge/rsschool-cv/blob/rsschool-cv-html/img/myfoto.jpg" width="150" height="180">
 <h1>Davidovich Sergey</h1>
 <h2>Contact information:</h2>
 <p><b>phone:</b>+375297467926
