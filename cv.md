@@ -12,9 +12,10 @@
 <h2>Skills and Proficiency:</h2>
 <p><ul>
 <li>html5,css</li>
-<li>VS Code
+<li>VS Code</li>
 <li>Adobe photoshop, carel draw</li>
-</ul></p>
+</ul>
+</p>
 <h2>Courses:</h2>
 <p><ul>
 <li>RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)</li>
