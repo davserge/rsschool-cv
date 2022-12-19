@@ -1,6 +1,6 @@
 <header></header>
 <main>
-<img src="https://github.com/davserge/rsschool-cv/blob/rsschool-cv-html/img/myfoto.jpg" width="150" height="180">
+<img src="img/myfoto.jpg" width="150" height="180">
 <h1>Davidovich Sergey</h1>
 <h2>Contact information:</h2>
 <p><b>phone:</b>+375297467926
@@ -29,5 +29,5 @@
 </ul></p>
 </main>
 <footer><a href="https://github.com/davserge" target="_blank">my github page</a>, year of production 2022. 
-<br><img src="https://rs.school/images/rs_school_js.svg" title="rsschool logo" width="50" height="50">
+<br><img src="https://rs.school/images/rs_school_js.svg" title="rsschool logo" width="80" height="80">
 <a href="https://rs.school/js/" target="_blank">rsschool page</a></footer>
