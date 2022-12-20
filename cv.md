@@ -28,6 +28,7 @@
 <li>German - Intermediate</li>
 </ul></p>
 </main>
-<footer><a href="https://github.com/davserge" target="_blank">my github page</a>, year of production 2022. 
-<br><img src="https://rs.school/images/rs_school_js.svg" title="rsschool logo" width="80" height="80">
+<footer><!-- «Подвал статьи» с указанием автора и даты --><address> <a href="https://github.com/davserge" target="_blank">my github page</a></adress>
+<br><time datetime="2022-12-18">18-th december 2022</time>. 
+<br><img src="https://rs.school/images/rs_school_js.svg" title="rsschool logo" width="50" height="50">
 <a href="https://rs.school/js/" target="_blank">rsschool page</a></footer>
